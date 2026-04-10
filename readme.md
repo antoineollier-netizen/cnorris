@@ -1,6 +1,6 @@
-# MP1 Chuck Norris
+# ProjetWeb Chuck Norris
 ## Auteurs :
-Matteo Belliard et Daniil Belyy
+Matteo Belliard et Daniil Belyy (NDR)
 ## Description :
 
 Ce projet consiste à rendre hommage au grand, au magnifique, au puissant Chuck Norris !
